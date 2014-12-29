@@ -1,0 +1,10 @@
+c:\users\1\documents\visual studio 2012\Projects\GeneticAlg\GeneticAlg\bin\Debug\GeneticAlg.exe
+c:\users\1\documents\visual studio 2012\Projects\GeneticAlg\GeneticAlg\bin\Debug\GeneticAlg.pdb
+c:\users\1\documents\visual studio 2012\Projects\GeneticAlg\GeneticAlg\obj\Debug\GeneticAlg.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2012\Projects\GeneticAlg\GeneticAlg\obj\Debug\GeneticAlg.Properties.Resources.resources
+c:\users\1\documents\visual studio 2012\Projects\GeneticAlg\GeneticAlg\obj\Debug\GeneticAlg.csproj.GenerateResource.Cache
+c:\users\1\documents\visual studio 2012\Projects\GeneticAlg\GeneticAlg\obj\Debug\GeneticAlg.exe
+c:\users\1\documents\visual studio 2012\Projects\GeneticAlg\GeneticAlg\obj\Debug\GeneticAlg.pdb
+C:\Users\1\Documents\Visual Studio 2012\Projects\GeneticAlg\GeneticAlg\obj\Debug\GeneticAlg.csproj.ResolveComReference.cache
+C:\Users\1\Documents\Visual Studio 2012\Projects\GeneticAlg\GeneticAlg\obj\Debug\GeneticAlg.Form1.resources
+C:\Users\1\documents\visual studio 2012\Projects\GeneticAlg\GeneticAlg\obj\Debug\GeneticAlg.Form2.resources
